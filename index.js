@@ -6,6 +6,7 @@ const deleteBtn = document.getElementById("delete-btn");
 const leadsFromLocalStorage = JSON.parse( localStorage.getItem("myLeads") );
 const tabBtn = document.getElementById("tab-btn");
 
+//Verifica se há elementos no localStorage, se sim, os renderiza
 if (leadsFromLocalStorage) {
     myLeads = leadsFromLocalStorage;
     render(myLeads);
