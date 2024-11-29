@@ -4,16 +4,7 @@
 
 ---
 
-## 🖥️ Tecnologias Usadas
-
-- **HTML**: Para estruturar a interface.
-- **CSS**: Para estilizar a aplicação e torná-la visualmente agradável.
-- **JavaScript**: Para implementar a lógica e interação com o DOM.
-- **Chrome Extensions API**: Para integração com o navegador, possibilitando salvar abas diretamente.
-
----
-
-## 🛠️ Funcionalidades
+## 🖥️ Funcionalidades
 
 1. **Salvar links manualmente**:
    - Digite a URL no campo de entrada e clique em **SAVE INPUT**.
@@ -26,6 +17,15 @@
 
 4. **Excluir todos os links**:
    - Clique duas vezes no botão **DELETE ALL** para remover todos os links salvos.
+
+---
+
+## 🛠️ Tecnologias Usadas
+
+- **HTML**: Para estruturar a interface.
+- **CSS**: Para estilizar a aplicação e torná-la visualmente agradável.
+- **JavaScript**: Para implementar a lógica e interação com o DOM.
+- **Chrome Extensions API**: Para integração com o navegador, possibilitando salvar abas diretamente.
 
 ---
 
